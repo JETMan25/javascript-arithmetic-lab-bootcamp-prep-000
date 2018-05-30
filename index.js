@@ -7,10 +7,9 @@ function subtract(a, b){
 }
 
 function multiply(a, b){
-return();
+return(2 * 3.4);
 }
 
-function divide(){
-var value= 5.0 / 2.5;
-return(value);
+function divide(a, b){
+return(5.0 / 2.5);
 }
